@@ -1,2 +1,0 @@
-# discordtheme
-test
